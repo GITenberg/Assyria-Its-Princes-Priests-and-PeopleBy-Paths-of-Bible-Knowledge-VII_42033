@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4759
     wikipedia: http://en.wikipedia.org/wiki/Archibald_Sayce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42033#Assyria-Its-Princes-Priests-and-PeopleBy-Paths-of-Bible-Knowledge-VII
 gutenberg_issued: '2013-02-06'
 gutenberg_type: Text
 identifiers:
